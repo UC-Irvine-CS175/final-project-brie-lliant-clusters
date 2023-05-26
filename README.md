@@ -5,6 +5,7 @@ __week 1 report__ <br>
 **O** create the new branch (data brach) to take care of all files needed to dowload the images and modify them as necessary <br>
 **O** create the data directory to keep all files needed to dowload the images and their labels (we might need to change the position of these files) <br>
 **O** we did not modify the getitem method in bps_dataset file, since for our clustring model, we need the image and the label <br>
+**O** we did some domain research about the problem to make sure we understand it correctly <br>
 **O** we added the usefull links to the different pretrain clusteing model we found online here: <br>
       &emsp;**1.** Image clustering using transfer learning (https://towardsdatascience.com/image-clustering-using-transfer-learning-df5862779571) <br>
             &emsp; &emsp; &emsp;**#** Explaining how to use kmean for our image clusteing <br>
