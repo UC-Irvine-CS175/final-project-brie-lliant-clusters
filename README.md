@@ -12,4 +12,6 @@ __week 1 report__ <br>
       &emsp;**2.** Image Clustering Using NimbusML Pipeline (https://learn.microsoft.com/en-us/nimbusml/tutorials/b_f-image-processing-clustering) <br>
             &emsp; &emsp; &emsp;**#** This website contains the code for pretrain clustering model to use in our project <br>
       &emsp;**3.** Extract a feature vector for any image with PyTorch (https://becominghuman.ai/extract-a-feature-vector-for-any-image-with-pytorch-9717561d1d4c) <br>
-            &emsp; &emsp; &emsp;**#** Good tutorial using pytorch <br>
+            &emsp; &emsp; &emsp;**#** Good tutorial using pytorch <br>      
+      &emsp;**4.** Image Clustering using Local Aggregation (https://towardsdatascience.com/image-clustering-implementation-with-pytorch-587af1d14123) <br>
+            &emsp; &emsp; &emsp;**#** Another possible clustering method <br>
