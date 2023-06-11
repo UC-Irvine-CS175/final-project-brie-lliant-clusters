@@ -2,8 +2,8 @@
 This module contains the BPSMouseDataset class which is a subclass of torch.utils.data.Dataset.
 """
 from PIL import Image
-from src.data_utils import get_bytesio_from_s3
-from src.dataset.augmentation import (
+from data_utils import get_bytesio_from_s3
+from augmentation import (
     NormalizeBPS,
     ResizeBPS,
     VFlipBPS,
